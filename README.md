@@ -2,9 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-- Run `docker-compose up --build` to build the app and run the development server.
+- Run `docker-compose up` to build and run the Docker image, then run the development server.
 
-Open [http://localhost:3030](http://localhost:3030) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 

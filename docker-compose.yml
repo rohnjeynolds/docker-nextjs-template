@@ -7,7 +7,7 @@ services:
         is_local: 1
     restart: always
     ports:
-      - "3030:3000"
+      - "3000:3000"
     volumes:
       - .:/usr/local/src
       - /usr/local/src/node_modules
