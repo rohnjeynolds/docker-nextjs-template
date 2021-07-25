@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-- Run `docker-compose up` to build and run the Docker image, then run the development server.
+Run `docker-compose up` to build and run the Docker image, then run the development server.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
