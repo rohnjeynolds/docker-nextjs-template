@@ -6,9 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "install-dev": "npm install && npm run dev",
-    "install-start": "npm install && npm start"
+    "lint": "next lint"
   },
   "dependencies": {
     "next": "11.0.1",
