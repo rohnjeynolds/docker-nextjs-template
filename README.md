@@ -2,7 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-Run `docker-compose up` to build and run the Docker image, then run the development server.
+The `node:lts` official node Docker image is used by default. Optionally edit `Dockerfile` and specify a different Debian-based image on the `FROM` line, e.g. `node:12`, `node:14-buster`, `node:current`. Only Debian-based images are supported by this project's Dockerfile.
+
+Run `docker-compose up`. This builds and runs the Docker image, then runs the development server.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
